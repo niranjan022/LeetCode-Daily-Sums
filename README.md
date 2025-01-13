@@ -16,6 +16,7 @@ This is the repository where I post the codes of the daily problems of leetcode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/0001-two-sum) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ This is the repository where I post the codes of the daily problems of leetcode.
 | [2292-counting-words-with-a-given-prefix](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -58,4 +60,8 @@ This is the repository where I post the codes of the daily problems of leetcode.
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+## Counting
+|  |
+| ------- |
+| [3455-minimum-length-of-string-after-operations](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/3455-minimum-length-of-string-after-operations) |
 <!---LeetCode Topics End-->
