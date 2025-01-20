@@ -11,6 +11,7 @@ This is the repository where I post the codes of the daily problems of leetcode.
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2685-first-completely-painted-row-or-column](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2792-neighboring-bitwise-xor) |
@@ -19,6 +20,7 @@ This is the repository where I post the codes of the daily problems of leetcode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/0001-two-sum) |
+| [2685-first-completely-painted-row-or-column](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
@@ -80,4 +82,8 @@ This is the repository where I post the codes of the daily problems of leetcode.
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Matrix
+|  |
+| ------- |
+| [2685-first-completely-painted-row-or-column](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2685-first-completely-painted-row-or-column) |
 <!---LeetCode Topics End-->
