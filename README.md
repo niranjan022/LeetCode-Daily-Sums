@@ -95,9 +95,22 @@ This is the repository where I post the codes of the daily problems of leetcode.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/0820-find-eventual-safe-states) |
 | [1876-map-of-highest-peak](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/1876-map-of-highest-peak) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/0031-next-permutation) |
+## Depth-First Search
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/0820-find-eventual-safe-states) |
+## Graph
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
