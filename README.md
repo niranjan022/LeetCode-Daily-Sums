@@ -18,6 +18,7 @@ This is the repository where I post the codes of the daily problems of leetcode.
 | [2691-count-vowel-strings-in-ranges](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2792-neighboring-bitwise-xor) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
@@ -113,4 +114,12 @@ This is the repository where I post the codes of the daily problems of leetcode.
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/0820-find-eventual-safe-states) |
+## Union Find
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Sorting
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
