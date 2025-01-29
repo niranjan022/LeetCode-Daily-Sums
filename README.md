@@ -99,6 +99,7 @@ This is the repository where I post the codes of the daily problems of leetcode.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/0820-find-eventual-safe-states) |
 | [1876-map-of-highest-peak](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/1876-map-of-highest-peak) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -109,11 +110,13 @@ This is the repository where I post the codes of the daily problems of leetcode.
 ## Depth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/0820-find-eventual-safe-states) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -122,6 +125,7 @@ This is the repository where I post the codes of the daily problems of leetcode.
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/0684-redundant-connection) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
