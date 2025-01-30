@@ -102,6 +102,7 @@ This is the repository where I post the codes of the daily problems of leetcode.
 | [0684-redundant-connection](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/0820-find-eventual-safe-states) |
 | [1876-map-of-highest-peak](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/1876-map-of-highest-peak) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Two Pointers
 |  |
@@ -118,6 +119,7 @@ This is the repository where I post the codes of the daily problems of leetcode.
 | ------- |
 | [0684-redundant-connection](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/0820-find-eventual-safe-states) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Topological Sort
 |  |
 | ------- |
@@ -126,6 +128,7 @@ This is the repository where I post the codes of the daily problems of leetcode.
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/0684-redundant-connection) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
