@@ -24,6 +24,7 @@ This is the repository where I post the codes of the daily problems of leetcode.
 | [2792-neighboring-bitwise-xor](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
 |  |
 | ------- |
