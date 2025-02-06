@@ -10,6 +10,7 @@ This is the repository where I post the codes of the daily problems of leetcode.
 | [0031-next-permutation](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/0031-next-permutation) |
 | [0854-making-a-large-island](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/0854-making-a-large-island) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1364-tuple-with-same-product](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/1364-tuple-with-same-product) |
 | [1524-string-matching-in-an-array](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -30,6 +31,7 @@ This is the repository where I post the codes of the daily problems of leetcode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/0001-two-sum) |
+| [1364-tuple-with-same-product](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2685-first-completely-painted-row-or-column](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -83,6 +85,7 @@ This is the repository where I post the codes of the daily problems of leetcode.
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
