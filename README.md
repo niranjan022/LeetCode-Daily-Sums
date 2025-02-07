@@ -27,6 +27,7 @@ This is the repository where I post the codes of the daily problems of leetcode.
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ This is the repository where I post the codes of the daily problems of leetcode.
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2685-first-completely-painted-row-or-column](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -158,4 +160,5 @@ This is the repository where I post the codes of the daily problems of leetcode.
 |  |
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/0987-reveal-cards-in-increasing-order) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
