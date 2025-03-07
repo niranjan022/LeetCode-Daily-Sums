@@ -174,9 +174,11 @@ This is the repository where I post the codes of the daily problems of leetcode.
 ## Math
 |  |
 | ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
 | ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/niranjan022/LEETCODE-DAILY-SUMS/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
